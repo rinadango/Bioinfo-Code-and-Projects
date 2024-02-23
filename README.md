@@ -1,4 +1,4 @@
-# BioinfoCode
+# Bioinfo Code and Projects
 
 Miscellaneous code used for bioinformatics purposes:
 
